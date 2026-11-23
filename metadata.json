@@ -1,0 +1,8 @@
+{
+  "name": "GeoFoto EXIF",
+  "description": "Cambia la fecha, hora y coordenadas GPS de tus fotografías desde PC o Android y descárgalas automáticamente con el nombre combinado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
